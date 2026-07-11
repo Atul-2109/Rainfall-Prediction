@@ -9,4 +9,4 @@ Explore and perform feature engineering on a real-world data set<br>
 Build a classifier pipeline and optimize it using grid search cross validation<br>
 Evaluate your model by interpreting various performance metrics and visualizations<br>
 Implement a different classifier by updating your pipeline<br>
-Use an appropriate set of parameters to search over in each case
+Use an appropriate set of parameters to search over in each case.
